@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         //이진규
         //김
         //광현
+        // ㅇ유민우
     }
 
 
