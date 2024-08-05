@@ -11,8 +11,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        // ㅁㄴㅇㄹㅁㅇㄹ
         // 이진규
         // 김동준
         // 김광현
